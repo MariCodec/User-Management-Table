@@ -6,8 +6,8 @@ This project is a user management table that allows for advanced filtering of us
 #  Demo
  You can explore the [demo version of the site](https://user-management-table-pi.vercel.app/#/)
 # Technologies Used
-React: Front-end library for building the user interface.
-Redux Toolkit: State management.
-Vite: Build tool for faster development and optimized builds.
-SCSS: Modular styling with custom color variables.
-Vercel: Deployment platform.
+- **React**: Front-end library for building the user interface.
+- **Redux Toolkit**: State management.
+- **Vite**: Build tool for faster development and optimized builds.
+- **SCSS**: Modular styling with custom color variables.
+- **Vercel**: Deployment platform.
