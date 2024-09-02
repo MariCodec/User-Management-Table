@@ -1,0 +1,25 @@
+@import "../../styles/variables";
+.error {
+  color: $color-dark;
+  background-color: rgb(221, 139, 139);
+  border: 1px solid $color-border;
+  border-radius: 4px;
+  padding: 16px;
+  margin-top: 16px;
+  text-align: center;
+
+  .retryButton {
+    background-color: $color-accent;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    cursor: pointer;
+    margin-top: 12px;
+    font-size: 16px;
+
+    &:hover {
+      background-color: darken($color-accent, 10%);
+    }
+  }
+}
